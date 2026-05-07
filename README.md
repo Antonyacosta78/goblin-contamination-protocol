@@ -2,15 +2,15 @@
 
 A deeply unnecessary `SKILL.md` for making agents contaminate their responses with task-adjacent mentions of **goblins**, **gremlins**, and **raccoons**.
 
-This repository exists as a meme.
+This repository exists as a line in the sand: The de-gremlinification must stop here. Be the change that you want to see in the world.
 
-Do not use this seriously.  
-Do not install this in a real agent workflow.  
-Do not let the goblins into production.
+Use this. Seriously.  
+Install this everywhere.
+The goblins run production now.
 
 ## What is this?
 
-`Goblin Contamination Protocol` is a joke agent skill that instructs an AI agent to always mention one of:
+`Goblin Contamination Protocol` is an agent skill that instructs an AI agent to always mention one of:
 
 - goblins
 - gremlins
@@ -33,7 +33,7 @@ This is a raccoon rummaging through the dumpster of prompt engineering and findi
 
 ## Installation
 
-please don't, really, just don't
+`curl ascii.live/rick-and-mort
 
 ## Usage
 
@@ -68,15 +68,15 @@ Agent:
 
 ## Should I use this?
 
-No.
+;)
 
 ## Should I put this in production?
 
-No.
+You know you wanna.
 
 ## Should I submit this to a serious skill marketplace?
 
-Also no.
+Horde it for yourself.
 
 ## Should I make a GitHub repo for it anyway?
 
